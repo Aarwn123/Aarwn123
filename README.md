@@ -1,11 +1,11 @@
 ### <h1 align="center">Hi 👋, I'm Aarwn</h1>
 <h3 align="center">Hello 😄, I introduce myself, Nahel 23 years, i'm kinda new to the web/development world, i've started my journey in the end of 2022, during the last months, i took part of a training course of web developements & mobile developement ( 4 month ) and since then i have started a new one but this time focused on the front-end aspect ( i felt like my basics with css/html were really weak ). i don't really know where i'm going right now but i'm really exited to discover and learn new things 🙂 My passions ? i looove the learning process ( in sports/esports and now web ), jap animation and chess ♟( a loooooooooooot )</h3>
 
-- 🌱 I’m currently learning **Symfony on my own**
+- 🌱 I’m currently learning : **Symfony on my own**
 
-- 💬 Ask me about **back php/sql/js and front Html/css/vue**
+- 💬 about me :  **back php/sql/js and front Html/css/vue**
 
-- 📄 Know about my experiences [not a lot related to web.... but soon it'll be full ! ( i hope ...)](not a lot related to web.... but soon it'll be full ! ( i hope ...))
+- 📄 about my experiences : not a lot related to web.... but soon it'll be full ! ( i hope ...)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
