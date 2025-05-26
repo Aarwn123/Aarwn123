@@ -1,11 +1,9 @@
 ### <h1 align="center">Hi 👋, I'm Nahel</h1>
-<h3 align="center">Hello, welcome to my page 😄h3>
+<h3 align="center">Hello, welcome to my page 😄 <h3>
 
 - 🌱 I’m currently learning : **Solidity on my own**
 
-- 💬 about me :  **back php/sql/js and front Html/css/vue**
-
-- 📄 about my experiences : not a lot related to web.... but soon it'll be full ! ( i hope ...)
+- 💬 about me :  **back php/sql/nodejs and front Html/css/vue/react/bootstrap**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
