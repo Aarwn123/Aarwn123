@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Nahel</h1>
-<h3 align="center">Hello, welcome to my page 😄 <h3>
+<h3 align="center">Hello, welcome to my page 😄<h3>
 
 - 🌱 I’m currently learning : **Solidity on my own**
 
